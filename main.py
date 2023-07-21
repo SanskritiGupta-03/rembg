@@ -1,4 +1,3 @@
-
 from rembg import remove
 import time
 input_path = "oldpic.JPG"
