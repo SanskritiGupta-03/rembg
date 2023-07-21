@@ -6,4 +6,5 @@ This is a simple Python script that removes the background of a picture using th
 
 Install the package with pip
 
-pip install rembg 
+`pip install rembg `
+
