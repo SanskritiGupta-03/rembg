@@ -8,3 +8,4 @@ Install the package with pip
 
 `pip install rembg `
 
+And then run main.py
